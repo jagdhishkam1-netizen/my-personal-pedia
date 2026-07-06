@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Personal Pedia</title>
+</head>
+
+<body>
+
+<h1>My Personal Pedia</h1>
+
+<hr>
+
+<h2>Categories</h2>
+
+<hr>
+
+<a href="#infra">Infrastructure</a>
+
+<hr>
+
+<a href="#it">IT Industry</a>
+
+<hr>
+
+<a href="#auto">Automobile</a>
+
+<hr>
+
+<!-- Infrastructure -->
+
+<h1 id="infra">Infrastructure</h1>
+
+<hr>
+
+<h2>L&T</h2>
+
+<p><b>Founder:</b> Henning Holck-Larsen and Soren Toubro</p>
+<p><b>Founded:</b> 1938</p>
+<p><b>Chairman:</b> S. N. Subrahmanyan</p>
+<p>L&T is one of India's largest engineering and construction companies.</p>
+
+<hr>
+
+<h2>Godrej</h2>
+
+<p><b>Founder:</b> Ardeshir Godrej</p>
+<p><b>Founded:</b> 1897</p>
+<p><b>Chairman:</b> Nadir Godrej</p>
+<p>Godrej is a well-known Indian company that manufactures consumer products, furniture and appliances.</p>
+
+<hr>
+
+<a href="#">Back to Top</a>
+
+<hr>
+
+<!-- IT -->
+
+<h1 id="it">IT Industry</h1>
+
+<hr>
+
+<h2>Accenture</h2>
+
+<p><b>CEO:</b> Julie Sweet</p>
+<p><b>Founded:</b> 1989</p>
+<p><b>Headquarters:</b> Dublin, Ireland</p>
+<p>Accenture is a global technology and consulting company.</p>
+
+<hr>
+
+<h2>PayPal</h2>
+
+<p><b>Founder:</b> Peter Thiel</p>
+<p><b>Founded:</b> 1998</p>
+<p><b>CEO:</b> Alex Chriss</p>
+<p>PayPal is an online payment company used around the world.</p>
+
+<hr>
+
+<h2>Barclays</h2>
+
+<p><b>Founded:</b> 1690</p>
+<p><b>CEO:</b> C. S. Venkatakrishnan</p>
+<p><b>Headquarters:</b> London, England</p>
+<p>Barclays is an international banking and financial services company.</p>
+
+<hr>
+
+<a href="#">Back to Top</a>
+
+<hr>
+
+<!-- Automobile -->
+
+<h1 id="auto">Automobile</h1>
+
+<hr>
+
+<h2>Brabus</h2>
+
+<p><b>Founder:</b> Bodo Buschmann</p>
+<p><b>Founded:</b> 1977</p>
+<p><b>Headquarters:</b> Germany</p>
+<p>Brabus is famous for modifying Mercedes-Benz luxury cars.</p>
+
+<hr>
+
+<h2>Maserati</h2>
+
+<p><b>Founder:</b> Maserati Brothers</p>
+<p><b>Founded:</b> 1914</p>
+<p><b>Headquarters:</b> Italy</p>
+<p>Maserati is an Italian luxury sports car manufacturer.</p>
+
+<hr>
+
+<h2>Toyota</h2>
+
+<p><b>Founder:</b> Kiichiro Toyoda</p>
+<p><b>Founded:</b> 1937</p>
+<p><b>Headquarters:</b> Japan</p>
+<p>Toyota is one of the world's largest automobile manufacturers.</p>
+
+<hr>
+
+<a href="#">Back to Top</a>
+
+</body>
+</html>
